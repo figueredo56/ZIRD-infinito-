@@ -27,14 +27,23 @@ Our ecosystem functions as a unified financial matrix where liquidity, speed, an
 
 ### 🧮 Ecosystem Supply Equations
 
-The relationship between the core pillars of the ecosystem—**ZAARD** (The Foundation), **PANGA** (The Creative Drive), **ZARED** (The Evolution), and **ZIRD** (The Velocity)—is governed by the following mathematical distribution:
+The relationship between the core pillars of the ecosystem—
+**ZAARD** (The Foundation), 
+**PANGA** (The Creative Drive),
+**ZARED** (The Evolution), 
+**ZIRD** (The Velocity)—is governed by the following mathematical distribution:
 
 $$Supply_{Total} = \begin{cases} 
-\mathbf{ZAARD:} & 900,000 \text{ tokens} \\
-\mathbf{PANGA:} & 90,000 \text{ tokens} \\
-\mathbf{ZARED:} & 750 \text{ tokens} \\
-\mathbf{ZIRD:} & 100 \text{ tokens} 
-\end{cases}$$
+
+\mathbf{ZAARD:} & 900,000 \text{tokens}\\
+
+\mathbf{PANGA:} & 90,000 \text{tokens}\\
+
+\mathbf{ZARED:} & 750 \text{tokens}\\
+
+\mathbf{ZIRD:} & 100 \text{tokens}\\
+
+end{cases}$$
 
 The systemic asset ratio model between the foundational supply ($S_{Zaard}$), the creative governance drive ($S_{Panga}$), and the high-velocity execution tokens ($S_{Zared}$, $S_{Zird}$) establishes an aggressive scarcity layer:
 
@@ -72,14 +81,24 @@ Nuestro ecosistema funciona como una matriz financiera unificada donde la liquid
 
 ### 🧮 Ecuaciones de Suministro del Ecosistema
 
-La relación entre los pilares fundamentales del ecosistema—**ZAARD** (La Fundación), **PANGA** (La Fuerza Creativa), **ZARED** (La Evolución) y **ZIRD** (La Velocidad)—está gobernada por la siguiente distribución matemática:
+La relación entre los pilares fundamentales del ecosistema—
+**ZAARD** (La Fundación),
+**PANGA** (La Fuerza Creativa),
+**ZARED** (La Evolución)
+**ZIRD** (La Velocidad)
+—está gobernada por la siguiente distribución matemática:
 
-$$Suministro_{Total} = \begin{cases} 
-\mathbf{ZAARD:} & 900,000 \text{ tokens} \\
-\mathbf{PANGA:} & 90,000 \text{ tokens} \\
-\mathbf{ZARED:} & 750 \text{ tokens} \\
-\mathbf{ZIRD:} & 100 \text{ tokens} 
-\end{cases}$$
+$$Suministro_{Total} = \begin{cases}
+ 
+\mathbf{ZAARD:} & 900,000 \text{tokens}\\
+
+\mathbf{PANGA:} & 90,000 \text{ tokens}\\
+
+\mathbf{ZARED:} & 750 \text{ tokens}\\
+
+\mathbf{ZIRD:} & 100 \text{ tokens}\\
+
+end{cases}$$
 
 El modelo de ratio de activos sistémicos entre el suministro fundacional ($S_{Zaard}$), el impulso de gobernanza creativa ($S_{Panga}$) y los tokens de ejecución de alta velocidad ($S_{Zared}$, $S_{Zird}$) establece una capa de escasez agresiva:
 
