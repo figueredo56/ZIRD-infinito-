@@ -1,4 +1,4 @@
-# ZIRD Token ⚡ — Official Repository
+# ZEIRD Token ⚡ — Official Repository
 
 Welcome to the official repository of **ZIRD**, the hyper-dynamic speed and performance engine of our decentralized blockchain ecosystem. This protocol is engineered to synchronize high-frequency trading psychology, Web3 arcade gaming, and systematic asset rebalancing.
 
@@ -6,11 +6,11 @@ Welcome to the official repository of **ZIRD**, the hyper-dynamic speed and perf
 
 ## 📊 Market & Liquidity Architecture
 
-ZIRD operates with a highly concentrated, secure, and audited liquidity structure designed to prevent external manipulation and maximize scarcity.
+ZEIRD operates with a highly concentrated, secure, and audited liquidity structure designed to prevent external manipulation and maximize scarcity.
 
 ### 🔒 Core Protocol Addresses
 * **Official Liquidity Pool Pair (Pancakeswap V2):** `0x191188dF425197c0265C79EF62eC647194e7EA42`
-* **Base Asset Pair:** ZIRD/WBNB
+* **Base Asset Pair:** ZEIRD/WBNB
 
 ### 📈 Tokenomics & Holder Concentration Analysis
 Following strict institutional metrics tracked via on-chain analytics (`Ave.ai` data integration):
@@ -31,7 +31,7 @@ The relationship between the core pillars of the ecosystem—
 **ZAARD** (The Foundation), 
 **PANGA** (The Creative Drive),
 **ZARED** (The Evolution), 
-**ZIRD** (The Velocity)—is governed by the following mathematical distribution:
+**ZEIRD** (The Velocity)—is governed by the following mathematical distribution:
 
 $$Supply_{Total} = \begin{cases} 
 
@@ -41,7 +41,7 @@ $$Supply_{Total} = \begin{cases}
 
 \mathbf{ZARED:} & 750 \text{tokens}\\
 
-\mathbf{ZIRD:} & 100 \text{tokens}\\
+\mathbf{ZEIRD:} & 100 \text{tokens}\\
 
 end{cases}$$
 
