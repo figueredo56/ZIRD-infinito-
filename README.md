@@ -1,3 +1,5 @@
+![logo zaird](https://raw.githubusercontent.com/figueredo56/ZIRD-infinito-/178cb6d8cae49079bf492586182ac1b238e67e5e/CC_20260522_154445.svg)
+
 # ZAIRD Token ⚡ — Official Repository
 
 Welcome to the official repository of **ZAIRD**, the hyper-dynamic speed and performance engine of our decentralized blockchain ecosystem. This protocol is engineered to synchronize high-frequency trading psychology, Web3 arcade gaming, and systematic asset rebalancing.
